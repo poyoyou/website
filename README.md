@@ -1,5 +1,1 @@
-meu website personalizado ❤️ <br>
-my custom website
-
-link em pt-br: https://poyoyou.github.io/website/ <br><br>
-link in english:
+a simple, yet complete bread clicking game with upgrades, save files, and tons of bread! <br> https://poyoyou.github.io/bread/
